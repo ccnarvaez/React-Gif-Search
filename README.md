@@ -14,7 +14,7 @@ It is pretty simple, just write something in the search bar and then some gifs w
     * Fetching API data.
 
 ## Deployment
-http://127.0.0.1:8081/
+https://ccnarvaez.github.io/React-Gif-Search/
 
 
 
