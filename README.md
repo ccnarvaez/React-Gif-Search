@@ -7,7 +7,7 @@ This project was part of the practice due to the Udemy course "React de cero a e
 It is pretty simple, just write something in the search bar and then some gifs will be printed on!
 
 # Learning goals
-    * Create an react app using command create-react-app.
+    * Create a react app using command create-react-app.
     * React components JSX.
     * Props.
     * Hooks: useState, useEffect, custom hooks.
