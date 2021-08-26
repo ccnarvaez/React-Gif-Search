@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[` Testing <GifGridItem /> component   Should render properly 1`] = `
+<div
+  className="card animate__animated animate__bounce"
+>
+  <img
+    alt="sailor moon GIF"
+    id="test"
+    src="https://giphy.com/gifs/sailor-moon-r-26gBjmGEsrFQlj8g8"
+  />
+  <p>
+     
+    sailor moon GIF
+     
+  </p>
+</div>
+`;
